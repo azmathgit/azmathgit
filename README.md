@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @azmathgit
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning java
-- 💞️ I’m looking to collaborate on still in progress
+- 💞️ I’m looking to collaborate --> still in progress
 - 📫 How to reach me azmathmohammed860@gmail.com
 
 <!---
